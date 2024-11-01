@@ -1,0 +1,31 @@
+table td {
+    padding: 0.5rem;
+}
+
+table th {
+    padding: 15px 10px !important;
+}
+
+table.settings-texts tr:nth-child(even) {
+    background-color: lightgray;
+}
+
+table.settings-texts td:first-child {
+    width: 30%;
+}
+
+table.settings-texts input {
+    width: 100%;
+}
+
+fieldset {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid #C5D8E1;
+    padding: 10px;
+}
+
+legend {
+    font-size: 1.2rem;
+    padding-left: 5px;
+}
